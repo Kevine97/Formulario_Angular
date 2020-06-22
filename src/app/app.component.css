@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,700");
+.bg {
+    height: 100%;
+    width: 100%;
+    font-family: "Poppins", sans-serif;
+    color: #222;
+  }
+
+.form-container{
+
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;
+}
+
+.card-header{
+    background: #007bff;
+    color: #fff;
+    text-align: center;
+    font-size: 20pt;
+}
